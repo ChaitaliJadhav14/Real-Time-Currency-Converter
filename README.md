@@ -28,7 +28,6 @@ Real-Time Currency Converter in Python using Tkinter for GUI, integrating Exchan
         Users enter the amount to convert.
         They select the source and target currencies.
         The converted amount is displayed instantly.
-#### 📸 Project Output
-     ![currency](https://github.com/user-attachments/assets/b0da7cba-c2f3-448a-8414-3223e5a600f5)
+
 
 
