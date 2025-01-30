@@ -1,10 +1,10 @@
 # 💱 Currency Converter
-######Real-Time Currency Converter in Python using Tkinter for GUI, integrating ExchangeRate-API for fetching live exchange rates.
+Real-Time Currency Converter in Python using Tkinter for GUI, integrating ExchangeRate-API for fetching live exchange rates.
 # 🚀 Features
-1.Fetches real-time exchange rates using the ExchangeRate-API.
-2.User-friendly GUI built with Tkinter.
-3.Converts currency values between multiple international currencies.
-4.Ensures valid numerical input with input validation.
+    1.Fetches real-time exchange rates using the ExchangeRate-API.
+    2.User-friendly GUI built with Tkinter.
+    3.Converts currency values between multiple international currencies.
+    4.Ensures valid numerical input with input validation.
 
 # 🖥️ Installation & Setup(Python IDLE)
 #### Step 1: Download and Install Python
